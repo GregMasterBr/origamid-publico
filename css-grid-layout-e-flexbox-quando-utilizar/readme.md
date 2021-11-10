@@ -6,3 +6,6 @@ https://www.origamid.com/curso/css-flexbox/
 
 Curso Gratuito de CSS Grid Layout
 https://www.origamid.com/curso/css-grid-layout/
+
+🐺 CSS Grid Layout - Curso Completo
+https://www.youtube.com/watch?v=hKXOVD2Yrj8
